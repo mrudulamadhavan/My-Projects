@@ -2,21 +2,24 @@
 
 
  **Laptop Price Predictor Application**
- https://bit.ly/43mZTng
+ 
+ * Link : https://bit.ly/43mZTng
  * Developed and implemented a machine learning model (https://rb.gy/xc56d) to predict laptop prices on Flipkart,resulting in a 90% accuracy rate.
  * Collaborated on data cleaning, feature engineering, and exploratory data analysis; utilized Random Forest, XGBoost, and Support Vector Regression algorithms for modeling.
-*-----------------------------------------------------------* 
+
  **Loan Eligibility Evaluator**
- https://bit.ly/46UhmES
+ 
+ * Link : https://bit.ly/46UhmES
  * Conducted thorough feasibility evaluation for extending tailored credit line loan products to millennials, employing Exploratory Data Analysis (EDA) to assess predefined attributes.
 * Utilized Logistic Regression, Precision-Recall Trade-off analysis, and F1 score metrics to assess the viability of the proposed credit
  line extension strategy for millennials.
-*--------------------------------------------------------------*
+
 **Logistics Tracking System**
- https://bit.ly/46VJiYL
+
+ * Link : https://bit.ly/46VJiYL
  * Engineered a pioneering forecasting model, optimizing shipment delivery and reducing transportation costs and transit times by an impressive 40%.
  * Leveraged feature engineering, probability, and statistics alongside hypothesis testing to craft a logistics process map, significantly enhancing the company's competitive edge.
-*---------------------------------------------------------*
+
  **Demand Analysis of Shared Electric Cycles in the Indian Market**
  https://bit.ly/3Hx2GjK
  * Conducted in-depth analysis using Pandas, NumPy, Seaborn, and Matplotlib. Identified key predictors with hypothesis testing
