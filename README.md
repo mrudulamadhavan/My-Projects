@@ -40,8 +40,7 @@
  
  * Link : https://bit.ly/3FISPGE
  * Implemented a recommender model enhancing user experience by delivering tailored 5 movie recommendations.
- * Leveraged Collaborative Filtering, Pearson Correlation, Cosine Similarity, and Matrix Factorization techniques, achieving a precision of
- 85% in recommending movies aligned with user preferences.
+ * Leveraged Collaborative Filtering, Pearson Correlation, Cosine Similarity, and Matrix Factorization techniques, achieving a precision of 85% in recommending movies aligned with user preferences.
 
 
  
@@ -49,6 +48,8 @@
  
  * Link : https://bit.ly/3MqtqWi
  * Performed a comprehensive analysis of 100,000 orders received between 2016 and 2018, formulating strategies to extract essential insights based on set of attributes and offer actionable recommendations aimed at boosting the sales of a worldwide retailer using SQL.
+ * Implemented joins, sub queries and CTE to establish relation between multiple data source.
+ * Discovered sales increased drastically 52.13 % from previous month in November, which coincides with five festive seasons, recommended for discount, better inventory management and hassle free pay option in this month.
 
    
  **Open Pub Application**
@@ -60,11 +61,10 @@
  **Revolutionizing Tweet Analysis with Advanced NER Technology**
  
  * Link : http://bit.ly/3TINXcD
- * Engineered and deployed a NER system for Twitter data using Python, TensorFlow, and Keras, achieving a 25% accuracy boost with
- the LSTM + CRF model.
+ * Engineered and deployed a NER system for Twitter data using Python, TensorFlow, and Keras, achieving a 25% accuracy boost with  the LSTM + CRF model.
  * Oversaw the exploration of bidirectional models, optimized performance, and reduced execution time by 30% through hyperparameter
  tuning.
- * Utilized 'bert-base-uncased' from Hugging Face Transformers, ensuring exceptional 95% accuracy in NER tasks.
+ * Utilized 'Bert-base-uncased' from Hugging Face Transformers, ensuring exceptional 95% accuracy in NER tasks.
    
  **Vegetable Classification for Ninjacart's Supply Chain Automation**
  * Link : https://bit.ly/3UVwrBc
@@ -79,8 +79,5 @@
 * Discovered that probability of male customers buying AeroFit treadmill is 53.7% and that of female customers is 42.3%.
 * Discovered 61.1% of customers aged 21-30 years prefer 'KP281', while 75% of customers earning less than 60,000 dollars annually opt for 'KP281' and 'KP481'.
 
-**Understanding E-Commerce trend for BRAZIL based Retail Store**
-* Link : https://bit.ly/45ow9aL
-* Analyzed 100k e-commerce order data set (2016-2018) for a major Brazil retail company using SQL and Excel to uncover trends.customer behavior,pricing variations and shipping preferences.
-* Implemented joins, sub queries and CTE to establish relation between multiple data source.
-* Discovered sales increased drastically 52.13 % from previous month in November, which coincides with five festive seasons, recommended for discount, better inventory management and hassle free pay option in this month.
+
+
