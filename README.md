@@ -79,5 +79,15 @@
 * Discovered that probability of male customers buying AeroFit treadmill is 53.7% and that of female customers is 42.3%.
 * Discovered 61.1% of customers aged 21-30 years prefer 'KP281', while 75% of customers earning less than 60,000 dollars annually opt for 'KP281' and 'KP481'.
 
-
+**Detection of Fake News using NLP**
+* Link: https://bit.ly/3XjhMT7
+* Developed and Deployed a Fake News Detection System, capable of identifying fake news articles, with the help of NLP and Streamlit.
+* Coordinated the data collection process by gathering news articles for building the modelling dateset from three different data sources, followed by thorough cleaning of the text data which included text pre-processing steps as well as removal of emoticons and non-English articles, followed by consolidating and combining the datasets.
+* Attained a test set F1 score of 0.985 by employing classifiers such as Logistic Regression and Naive Bayes with the help of text featurization techniques such as TF-IDF with bi-grams, Word2Vec and TF-IDF weighted Word2Vec to featurize the title and the body of the articles.
+  
+**Price Optimization for an E-Commerce Company**
+* Link: https://bit.ly/45ow9aL
+* Conducted comprehensive data analysis for an E-Commerce enterprise with a focus on optimizing revenue and refining product pricing strategies.
+* Researched critical factors including competitor analysis, seasonal influences on product pricing, and price-demand elasticity, deriving strategic insights for enhancing overall revenue and product pricing.
+* Recommended and implemented an advanced Dynamic Pricing Model, leveraging a high-performing Linear Regression model with a test R Squared Score of 0.96, enabling adaptive and dynamic adjustments to product prices.
 
