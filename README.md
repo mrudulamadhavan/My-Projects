@@ -75,12 +75,12 @@
 
 **Customer Profiling of Aerofit Treadmill**
 * Link : https://bit.ly/3VbRzTK
-• Developed customer profiles for AeroFit's treadmills using Python. Analyzed demographics and behaviors with Correlation, Univariate, Bivariate, and Multivariate techniques. Optimized marketing strategies for targeted customer.
-• Discovered that probability of male customers buying AeroFit treadmill is 53.7% and that of female customers is 42.3%.
-• Discovered 61.1% of customers aged 21-30 years prefer 'KP281', while 75% of customers earning less than 60,000 dollars annually opt for 'KP281' and 'KP481'.
+* Developed customer profiles for AeroFit's treadmills using Python. Analyzed demographics and behaviors with Correlation, Univariate, Bivariate, and Multivariate techniques. Optimized marketing strategies for targeted customer.
+* Discovered that probability of male customers buying AeroFit treadmill is 53.7% and that of female customers is 42.3%.
+* Discovered 61.1% of customers aged 21-30 years prefer 'KP281', while 75% of customers earning less than 60,000 dollars annually opt for 'KP281' and 'KP481'.
 
 **Understanding E-Commerce trend for BRAZIL based Retail Store**
 * Link : https://bit.ly/45ow9aL
-• Analyzed 100k e-commerce order data set (2016-2018) for a major Brazil retail company using SQL and Excel to uncover trends.customer behavior,pricing variations and shipping preferences.
-• Implemented joins, sub queries and CTE to establish relation between multiple data source.
-• Discovered sales increased drastically 52.13 % from previous month in November, which coincides with five festive seasons, recommended for discount, better inventory management and hassle free pay option in this month.
+* Analyzed 100k e-commerce order data set (2016-2018) for a major Brazil retail company using SQL and Excel to uncover trends.customer behavior,pricing variations and shipping preferences.
+* Implemented joins, sub queries and CTE to establish relation between multiple data source.
+* Discovered sales increased drastically 52.13 % from previous month in November, which coincides with five festive seasons, recommended for discount, better inventory management and hassle free pay option in this month.
