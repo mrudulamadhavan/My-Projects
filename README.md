@@ -79,7 +79,7 @@
 * Discovered that probability of male customers buying AeroFit treadmill is 53.7% and that of female customers is 42.3%.
 * Discovered 61.1% of customers aged 21-30 years prefer 'KP281', while 75% of customers earning less than 60,000 dollars annually opt for 'KP281' and 'KP481'.
 
-**Detection of Fake News using NLP (FlipIt)**
+**Detection of Fake News using NLP (Flipit News)**
 * Link: https://bit.ly/3XjhMT7
 * Developed and Deployed a Fake News Detection System, capable of identifying fake news articles, with the help of NLP and Streamlit.
 * Coordinated the data collection process by gathering news articles for building the modelling dateset from three different data sources, followed by thorough cleaning of the text data which included text pre-processing steps as well as removal of emoticons and non-English articles, followed by consolidating and combining the datasets.
