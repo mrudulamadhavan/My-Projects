@@ -4,7 +4,7 @@
  **Laptop Price Predictor Application (Flipkart)**
  
  * Link : https://bit.ly/43mZTng
- * Developed and implemented a machine learning model (https://rb.gy/xc56d) to predict laptop prices on Flipkart,resulting in a 90% accuracy rate.
+ * Developed and implemented a machine learning model to predict laptop prices on Flipkart,resulting in a 90% accuracy rate.
  * Collaborated on data cleaning, feature engineering, and exploratory data analysis; utilized Random Forest, XGBoost, and Support Vector Regression algorithms for modeling.
 
  **Loan Eligibility Evaluator (LoanTap)**
